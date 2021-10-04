@@ -417,6 +417,7 @@ please preview your site before committing, and make sure to run
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+  You will need to download <a href="https://drive.google.com/file/d/1sDuSkDc-9FaEqzxWoKtxJHA6MVIupgQN/view?usp=sharing">shell-lesson-data.zip</a> and move it to your desktop. 
 </p>
 
 {% comment %}
